@@ -1,7 +1,6 @@
 -- Code for mining a 3x3 tunnel with a mining turtle
 -- Collects only specific ores and drops the rest
 -- Checks for fuel and refuels if necessary
--- test
 
 -- Dig a row of 3 blocks
 function digRow()
